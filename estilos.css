@@ -1,0 +1,19 @@
+p{
+font-size:30px;
+font-family: "Segoe Print";
+font-weight:bold;
+color:#EAAAF4;
+text-align:center;
+
+}
+header {
+background-color:lightblue;
+}
+
+body {
+background-color:green;
+}
+
+footer{
+background-color:yellowgreen;
+}
