@@ -11,9 +11,18 @@ background-color:lightblue;
 }
 
 body {
-background-color:green;
+background-color:lightcoral;
 }
 
 footer{
 background-color:yellowgreen;
+}
+
+.parrafo1{
+    font-size:60px;
+
+}
+
+.pauli{
+    color:red;
 }
